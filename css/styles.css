@@ -1,0 +1,47 @@
+header {
+  color: black;
+  font-family: cursive;
+  background-color: green;
+  height: 200px;
+  font-size: 24px;
+}
+
+.about {
+  background-image: url('../images/gizmo1.jpg');
+  height: 1000px;
+  font-size: 40px;
+  color: white;
+}
+
+.about p {
+  width: 70%;
+  background-color: brown;
+}
+
+.bio {
+  margin-top: 50px;
+  display: inline-block;
+  font-size: 35px;
+  font-family: fantasy;
+}
+
+.image {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.image img {
+  display: inline-block;
+  width: 40%;
+  border-radius: 400px;
+  margin: 0 auto;
+}
+
+.bio p {
+  display: inline-block;
+  width: 50%;
+}
+
+.image2 img {
+  width: 100%;
+}
